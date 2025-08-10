@@ -1,0 +1,81 @@
+Timestamp,EventType,Department,Rating,Comments,textblob_polarity,vader_compound,sentiment_tb,sentiment_vd
+2025-07-30 08:37:00,Cultural Fest,ECE,1,Too crowded and unorganized.,0.0,0.0,neutral,neutral
+2025-07-31 14:26:00,Photography Contest,CSE,4,Excellent arrangements and hospitality.,1.0,0.5719,positive,positive
+2025-07-10 19:17:00,Hackathon,Civil,5,Great organization and very informative.,0.5,0.6249,positive,positive
+2025-07-30 18:07:00,Hackathon,CSE,5,"Fantastic experience, looking forward to the next one.",0.2,0.5574,positive,positive
+2025-07-09 19:10:00,Workshop AI,Arts,4,Very engaging and interactive event.,0.52,0.4005,positive,positive
+2025-07-13 16:03:00,Cultural Fest,Mechanical,1,Technical issues disrupted sessions.,0.0,0.0,neutral,neutral
+2025-07-30 16:23:00,Robotics Seminar,Mechanical,2,Food quality could be better.,0.5,0.4404,positive,positive
+2025-07-02 20:08:00,Cultural Fest,Mechanical,4,Great learning and networking opportunity.,0.8,0.7845,positive,positive
+2025-07-22 20:31:00,Hackathon,Commerce,1,Sound quality was poor.,0.0,-0.4767,neutral,negative
+2025-07-07 19:41:00,Workshop AI,Civil,2,Technical issues disrupted sessions.,0.0,0.0,neutral,neutral
+2025-07-07 18:27:00,Workshop AI,CSE,3,It was fine but not very engaging.,0.13141025641025642,-0.3568,positive,negative
+2025-07-18 08:19:00,Workshop AI,Civil,1,Event started late and wasted time.,-0.25,-0.4939,negative,negative
+2025-07-09 10:16:00,Workshop AI,CSE,5,Great learning and networking opportunity.,0.8,0.7845,positive,positive
+2025-07-13 18:33:00,Photography Contest,CSE,1,"Poorly managed, unclear schedule.",-0.4,-0.25,negative,negative
+2025-07-15 18:17:00,Photography Contest,Commerce,4,Great learning and networking opportunity.,0.8,0.7845,positive,positive
+2025-07-05 17:52:00,Cultural Fest,Civil,5,Very engaging and interactive event.,0.52,0.4005,positive,positive
+2025-07-01 14:58:00,Robotics Seminar,ECE,3,Fair experience overall.,0.35,0.3182,positive,positive
+2025-07-19 17:14:00,Tech Fest,Civil,5,"Fantastic experience, looking forward to the next one.",0.2,0.5574,positive,positive
+2025-07-03 18:07:00,Cultural Fest,Commerce,5,"Amazing event, learned a lot!",0.7500000000000001,0.6239,positive,positive
+2025-07-11 18:29:00,Workshop AI,CSE,1,"Poorly managed, unclear schedule.",-0.4,-0.25,negative,negative
+2025-07-10 19:09:00,Photography Contest,Mechanical,2,Event started late and wasted time.,-0.25,-0.4939,negative,negative
+2025-07-31 10:08:00,Hackathon,Commerce,4,Excellent arrangements and hospitality.,1.0,0.5719,positive,positive
+2025-07-29 18:12:00,Hackathon,Arts,4,Excellent arrangements and hospitality.,1.0,0.5719,positive,positive
+2025-07-06 15:19:00,Cultural Fest,Commerce,1,Too crowded and unorganized.,0.0,0.0,neutral,neutral
+2025-07-17 09:35:00,Tech Fest,Commerce,4,Excellent arrangements and hospitality.,1.0,0.5719,positive,positive
+2025-07-14 15:11:00,Cultural Fest,Civil,2,Technical issues disrupted sessions.,0.0,0.0,neutral,neutral
+2025-07-02 16:06:00,Cultural Fest,ECE,3,"Good effort, needs polishing.",0.7,0.4404,positive,positive
+2025-07-05 17:32:00,Hackathon,Civil,1,Food quality could be better.,0.5,0.4404,positive,positive
+2025-07-13 09:40:00,Robotics Seminar,ECE,4,Excellent arrangements and hospitality.,1.0,0.5719,positive,positive
+2025-07-30 18:51:00,Robotics Seminar,Mechanical,2,Technical issues disrupted sessions.,0.0,0.0,neutral,neutral
+2025-07-29 20:56:00,Tech Fest,Mechanical,1,Sound quality was poor.,0.0,-0.4767,neutral,negative
+2025-07-13 08:51:00,Workshop AI,ECE,1,Too crowded and unorganized.,0.0,0.0,neutral,neutral
+2025-07-26 12:55:00,Hackathon,CSE,3,Decent arrangements but room for improvement.,0.16666666666666666,0.6124,positive,positive
+2025-07-10 11:03:00,Photography Contest,Mechanical,4,"Fantastic experience, looking forward to the next one.",0.2,0.5574,positive,positive
+2025-07-26 16:40:00,Hackathon,Commerce,5,Excellent arrangements and hospitality.,1.0,0.5719,positive,positive
+2025-07-11 11:42:00,Hackathon,CSE,1,Too crowded and unorganized.,0.0,0.0,neutral,neutral
+2025-07-06 14:46:00,Hackathon,Arts,1,Event started late and wasted time.,-0.25,-0.4939,negative,negative
+2025-07-07 13:16:00,Cultural Fest,Arts,3,"Event was okay, nothing special.",0.4285714285714286,-0.092,positive,negative
+2025-07-01 14:40:00,Robotics Seminar,Arts,1,Event started late and wasted time.,-0.25,-0.4939,negative,negative
+2025-07-25 14:08:00,Hackathon,Commerce,2,Technical issues disrupted sessions.,0.0,0.0,neutral,neutral
+2025-07-15 16:48:00,Cultural Fest,Arts,2,Need more engaging activities.,0.45,0.4005,positive,positive
+2025-07-26 09:51:00,Robotics Seminar,Mechanical,2,Lack of seating arrangements.,0.0,-0.3182,neutral,negative
+2025-07-25 16:00:00,Workshop AI,Mechanical,2,Food quality could be better.,0.5,0.4404,positive,positive
+2025-07-07 16:43:00,Cultural Fest,Arts,4,Excellent arrangements and hospitality.,1.0,0.5719,positive,positive
+2025-07-24 20:14:00,Workshop AI,Arts,3,It was fine but not very engaging.,0.13141025641025642,-0.3568,positive,negative
+2025-07-31 13:21:00,Tech Fest,Commerce,3,"Good effort, needs polishing.",0.7,0.4404,positive,positive
+2025-07-29 08:42:00,Hackathon,Arts,4,Great learning and networking opportunity.,0.8,0.7845,positive,positive
+2025-07-09 19:21:00,Robotics Seminar,Civil,5,Great organization and very informative.,0.5,0.6249,positive,positive
+2025-07-29 14:13:00,Hackathon,Commerce,3,Fair experience overall.,0.35,0.3182,positive,positive
+2025-07-05 08:51:00,Robotics Seminar,Civil,4,"Amazing event, learned a lot!",0.7500000000000001,0.6239,positive,positive
+2025-07-11 12:01:00,Cultural Fest,Mechanical,2,Lack of seating arrangements.,0.0,-0.3182,neutral,negative
+2025-07-24 17:09:00,Cultural Fest,Arts,4,Excellent arrangements and hospitality.,1.0,0.5719,positive,positive
+2025-07-14 10:27:00,Hackathon,ECE,4,Excellent arrangements and hospitality.,1.0,0.5719,positive,positive
+2025-07-08 19:38:00,Photography Contest,Commerce,3,It was fine but not very engaging.,0.13141025641025642,-0.3568,positive,negative
+2025-07-17 19:23:00,Cultural Fest,Civil,1,"Poorly managed, unclear schedule.",-0.4,-0.25,negative,negative
+2025-07-18 11:27:00,Hackathon,Arts,1,"Poorly managed, unclear schedule.",-0.4,-0.25,negative,negative
+2025-07-27 15:35:00,Cultural Fest,Civil,1,Food quality could be better.,0.5,0.4404,positive,positive
+2025-07-27 09:46:00,Workshop AI,Mechanical,1,Technical issues disrupted sessions.,0.0,0.0,neutral,neutral
+2025-07-14 14:04:00,Photography Contest,Mechanical,5,"Amazing event, learned a lot!",0.7500000000000001,0.6239,positive,positive
+2025-07-08 16:20:00,Photography Contest,ECE,1,Sound quality was poor.,0.0,-0.4767,neutral,negative
+2025-07-21 09:52:00,Tech Fest,Civil,1,Event started late and wasted time.,-0.25,-0.4939,negative,negative
+2025-07-27 15:42:00,Robotics Seminar,Mechanical,4,Great learning and networking opportunity.,0.8,0.7845,positive,positive
+2025-07-16 11:25:00,Hackathon,CSE,2,Lack of seating arrangements.,0.0,-0.3182,neutral,negative
+2025-07-19 15:15:00,Cultural Fest,Commerce,3,"Event was okay, nothing special.",0.4285714285714286,-0.092,positive,negative
+2025-07-18 12:26:00,Tech Fest,Mechanical,1,"Poorly managed, unclear schedule.",-0.4,-0.25,negative,negative
+2025-07-29 18:49:00,Robotics Seminar,Mechanical,5,"Amazing event, learned a lot!",0.7500000000000001,0.6239,positive,positive
+2025-07-06 14:49:00,Hackathon,Mechanical,3,"Good effort, needs polishing.",0.7,0.4404,positive,positive
+2025-07-17 19:00:00,Tech Fest,Mechanical,4,Loved the speakers and the atmosphere.,0.7,0.5994,positive,positive
+2025-07-28 11:56:00,Robotics Seminar,ECE,1,Sound quality was poor.,0.0,-0.4767,neutral,negative
+2025-07-12 20:21:00,Tech Fest,Arts,3,"Average experience, could improve.",-0.15,0.4404,negative,positive
+2025-07-29 09:05:00,Tech Fest,Mechanical,4,Really enjoyed the sessions and activities.,0.5,0.5563,positive,positive
+2025-07-29 10:07:00,Cultural Fest,ECE,2,Food quality could be better.,0.5,0.4404,positive,positive
+2025-07-29 08:36:00,Robotics Seminar,Commerce,4,"Fantastic experience, looking forward to the next one.",0.2,0.5574,positive,positive
+2025-07-30 10:51:00,Cultural Fest,ECE,3,"Good effort, needs polishing.",0.7,0.4404,positive,positive
+2025-07-29 20:03:00,Workshop AI,Commerce,5,Great organization and very informative.,0.5,0.6249,positive,positive
+2025-07-08 15:23:00,Hackathon,Civil,1,Food quality could be better.,0.5,0.4404,positive,positive
+2025-07-25 08:59:00,Workshop AI,Civil,3,Decent arrangements but room for improvement.,0.16666666666666666,0.6124,positive,positive
+2025-07-06 19:30:00,Photography Contest,CSE,4,"Amazing event, learned a lot!",0.7500000000000001,0.6239,positive,positive
+2025-07-24 10:01:00,Photography Contest,Commerce,5,Really enjoyed the sessions and activities.,0.5,0.5563,positive,positive
+2025-07-26 15:59:00,Robotics Seminar,Arts,4,Excellent arrangements and hospitality.,1.0,0.5719,positive,positive
