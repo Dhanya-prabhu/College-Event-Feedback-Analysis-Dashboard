@@ -1,8 +1,12 @@
-
+ # College Event Feedback Analysis 
+ <p align="center">
+  <img src="https://img.shields.io/badge/Python-3.13-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</p>
 
 ---
-
-# 🎓 College Event Feedback Analysis 
 
 **Task:** Analyze student feedback from college events to uncover satisfaction trends and provide actionable suggestions for improvement using survey data.
 
